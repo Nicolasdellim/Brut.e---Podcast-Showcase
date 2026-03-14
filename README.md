@@ -48,13 +48,13 @@ Integrations: Spotify Embed APIs
 ## 📸 Gallery
 Add your beautiful screenshots here.
 
-### Desktop Navigation & Hover States
+Desktop Navigation & Hover States
 (Screenshot of the glassmorphic floating capsule nav)
 
-### The "Grid View" Spotify Player
+The "Grid View" Spotify Player
 (Screenshot demonstrating the cover art transforming into a playable Spotify embed while retaining the overlay title)
 
-### La Ligne Éditoriale
+La Ligne Éditoriale
 (Screenshot of the smooth transition from beige into the deep red rounded information section)
 
-### Coded with ❤️ and aesthetic in Antigravity.
+***Coded with ❤️ and aesthetic in Antigravity.***
