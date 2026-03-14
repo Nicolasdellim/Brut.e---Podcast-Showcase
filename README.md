@@ -1,4 +1,4 @@
-🎙️ BRUT.E Podcast — Vibe Coded Showcase
+# BRUT.E Podcast — Vibe Coded Showcase
 "Un journal intime digital, une conversation à cœur ouvert sur la vingtaine."
 
 Brut.e Hero Section (You can add your own GIF here!)
@@ -7,7 +7,7 @@ Welcome to the BRUT.E Podcast digital showcase! This project was designed and de
 
 Note: The source code for this project is private and proprietary to protect its unique design architecture. This repository serves as a visual showcase of the frontend development and UI/UX design.
 
-🎨 The Aesthetic Vision
+### 🎨 The Aesthetic Vision
 BRUT.E is hosted by Leya and talks about being in your 20s, raw emotions, vulnerability, life struggles, friendships, and mental health.
 
 The website was built to feel:
@@ -21,7 +21,8 @@ Primary: Bold, condensed, massive sans-serif (Anton) for maximum editorial impac
 Secondary: Clean, modern sans-serif (Inter) for readability.
 Accents: Handwritten style (Caveat) for the logo and authentic diary-like notes.
 Textures: Subtle paper grain overlay applied via CSS to give it a physical magazine feel.
-⚡ Core Technical Features (Vibe Coded)
+
+### ⚡ Core Technical Features (Vibe Coded)
 This project was built from scratch without standard UI libraries (No Tailwind, No Bootstrap) to ensure 100% bespoke pixel control.
 
 1. The Immersive Preloader
@@ -36,23 +37,24 @@ Library Views: A custom toggle allowing users to switch the Spotify Episode libr
 4. Smooth Cinematic Motion
 Every page transition, text reveal, and hover effect is carefully orchestrated using GSAP (GreenSock Animation Platform) and Next.js routing transitions.
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 Framework: Next.js (App Router)
 Language: TypeScript
 Styling: Pure Modular Vanilla CSS (for ultimate customization)
 Animation Engine: GSAP (@gsap/react)
 Iconography: Lucide React
 Integrations: Spotify Embed APIs
-📸 Gallery
+
+## 📸 Gallery
 Add your beautiful screenshots here.
 
-Desktop Navigation & Hover States
+### Desktop Navigation & Hover States
 (Screenshot of the glassmorphic floating capsule nav)
 
-The "Grid View" Spotify Player
+### The "Grid View" Spotify Player
 (Screenshot demonstrating the cover art transforming into a playable Spotify embed while retaining the overlay title)
 
-La Ligne Éditoriale
+### La Ligne Éditoriale
 (Screenshot of the smooth transition from beige into the deep red rounded information section)
 
-Coded with ❤️ and aesthetic in Antigravity.
+### Coded with ❤️ and aesthetic in Antigravity.
